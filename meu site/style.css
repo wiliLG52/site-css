@@ -1,0 +1,23 @@
+.entretenimento {
+    background-color: #ffe0e9;
+    padding: 20px;
+  }
+  
+  .tecnologia {
+    background-color: #e0f7ff;
+    padding: 20px;
+  }
+  
+  .entretenimento h2,
+  .tecnologia h2 {
+    font-size: 24px;
+  }
+  
+  article img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
